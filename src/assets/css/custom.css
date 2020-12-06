@@ -3521,12 +3521,6 @@ form:after {
 .login_content h1:after {
     content: "";
     height: 1px;
-
-
-
-
-
-
     position: absolute;
     top: 10px;
     width: 20%
