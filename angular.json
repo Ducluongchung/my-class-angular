@@ -24,6 +24,10 @@
               "src/assets"
             ],
             "styles": [
+              "node_modules/bootstrap/dist/css/bootstrap.min.css",
+              "node_modules/font-awesome/css/font-awesome.css",
+              "node_modules/animate.css/animate.css",
+              "src/assets/css/custom.css",
               "src/styles.css"
             ],
             "scripts": []
@@ -119,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "fn-admin"
+    }
+  },
+  "defaultProject": "fn-admin",
+  "cli": {
+    "analytics": "3f324e04-11cb-4d7a-871b-e521e69847f6"
+  }
 }
